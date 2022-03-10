@@ -2,7 +2,7 @@ object Lab01
 {
 	def main(args:Array[String])=
 	{
-		println("Scala Calculator Program")
+		println("Scala Calculator Program here")
 	}
 	
 	def add(a:Int, b:Int) = a + b
